@@ -19,6 +19,7 @@ Below is a list of the contents of this repository - instructions for using them
 - README.md: The README for this repo branch explaining it's contents - you're reading it now.
 - Home-Sales-Predictive-Model.ipynb: Jupyter Notebook containing background, data sources, load scripts, data profiling, data cleansing, analysis, feature engineering and models. Extensive comments included.
 - Seattle_Home_Price_Predictive_Model.pdf: Final businesspresentation targeting a 5-minute summary pitch
+- Prediction_Example.xlsx: A worksheet to validate a single home price prediction used in the presentation
 - data folder: Folder contains source data files available for use in the project
 - images folder: A folder for some images of plots used in presentation
 - .gitignore: A hidden file that tells git to not track certain files and folders
